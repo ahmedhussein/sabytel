@@ -1,2 +1,2 @@
 # sabytel
-New Sabytel IT Security web site
+New Sabytel IT Security web site.
